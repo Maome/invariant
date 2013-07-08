@@ -14,3 +14,4 @@ review posts:
 post:
 * one to two images per night
 * maybe find a way to leverage reddits peak hours
+* can we refactor the title at all?
